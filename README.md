@@ -17,3 +17,4 @@
     <img src="https://shields.io/github/forks/:user/:repo?label=Fork" />
   </a>
 </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/perondog?color=green&label=WhatsApp&logo=whatsapp&style=for-the-badge">
